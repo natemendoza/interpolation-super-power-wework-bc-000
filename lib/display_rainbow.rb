@@ -10,3 +10,5 @@ def display_rainbow (colors)
   puts color[5]
   puts color[6]
 end
+
+display_rainbow
